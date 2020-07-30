@@ -1,4 +1,4 @@
-# LobbyItems-PMExperts Edition
+# LobbyItems
 ---
 | Discord |
 | :-----: |
@@ -22,14 +22,9 @@ Simple and clean LobbyCore for PocketMine-MP Servers.
     - [x] addon Plugin
     - [x] Config File
 
-### Next TODO:
+### TODO:
 - add Permission System
 
-# Addons:
+## Addons:
 
-- [Server-Helper](https://github.com/PMExpertsDE/Server-Helper)
-
-### You want to help us?
-Do it! Yeah were search for Developers of you want to help do it.
-
-## Thanks for all Users and Helpers!
+- [ServerHelper](https://github.com/PocketMine-Plugin/ServerHelper)
